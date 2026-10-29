@@ -103,24 +103,21 @@
 			"name": "Horn in F",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
-			"staves": [
+			"parts": [
 				{
-					"id": "i18-1",
-					"parts": []
+					"name": "I"
+				},
+				{
+					"name": "II"
 				}
-			]
-		},
-		{
-			"id": "i6",
-			"name": "II",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
+			],
 			"staves": [
 				{
-					"id": "i6-1",
-					"parts": []
+					"id": "i18-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -359,14 +356,14 @@
 					"uly": 1349,
 					"lrx": 2335,
 					"lry": 1424,
-					"staff": "i18-1"
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 473,
 					"uly": 1477,
 					"lrx": 2335,
 					"lry": 1544,
-					"staff": "i6-1"
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 473,
