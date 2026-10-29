@@ -189,13 +189,12 @@
                            <labelAbbr xml:id="labelAbbr-14">Vl I</labelAbbr>
                            <instrDef xml:id="instrDef-14"/>
                            <layerDef xml:id="layerDef-23" n="1" label="I"/>
-                           <layerDef xml:id="layerDef-24" n="2" label="II"/>
                         </staffDef>
                         <staffDef xml:id="i13-staff2" n="15" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
                            <label xml:id="label-26">Violine II</label>
                            <labelAbbr xml:id="labelAbbr-15">Vl II</labelAbbr>
                            <instrDef xml:id="instrDef-15"/>
-                           <layerDef xml:id="layerDef-25" n="2" label="II"/>
+                           <layerDef xml:id="layerDef-24" n="2" label="II"/>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i14-staff1" n="16" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
@@ -217,7 +216,7 @@
                         <label xml:id="label-30">Violoncell Vc</label>
                         <labelAbbr xml:id="labelAbbr-19">Vc Vc</labelAbbr>
                         <instrDef xml:id="instrDef-19"/>
-                        <layerDef xml:id="layerDef-26" n="1" label="Vc"/>
+                        <layerDef xml:id="layerDef-25" n="1" label="Vc"/>
                      </staffDef>
                      <staffDef xml:id="i2-staff1" n="20" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
                         <label xml:id="label-31">Oboe I!</label>
