@@ -135,20 +135,24 @@
 			]
 		},
 		{
-			"id": "i7",
-			"name": "Trompete ın F I",
+			"id": "i19",
+			"name": "Trompete in F",
 			"abbr": "",
 			"grand": false,
 			"parts": [
+				{
+					"name": "I"
+				},
 				{
 					"name": "II"
 				}
 			],
 			"staves": [
 				{
-					"id": "i7-1",
+					"id": "i19-2",
 					"parts": [
-						0
+						0,
+						1
 					]
 				}
 			]
@@ -160,14 +164,22 @@
 			"grand": false,
 			"parts": [
 				{
+					"name": "I"
+				},
+				{
 					"name": "II"
+				},
+				{
+					"name": "III"
 				}
 			],
 			"staves": [
 				{
-					"id": "i8-1",
+					"id": "i8-2",
 					"parts": [
-						0
+						0,
+						1,
+						2
 					]
 				}
 			]
@@ -383,14 +395,14 @@
 					"uly": 1629,
 					"lrx": 2337,
 					"lry": 1701,
-					"staff": "i7-1"
+					"staff": "i19-2"
 				},
 				{
 					"ulx": 484,
 					"uly": 1791,
 					"lrx": 2337,
 					"lry": 1866,
-					"staff": "i8-1"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 478,
