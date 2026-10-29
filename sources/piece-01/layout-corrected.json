@@ -326,25 +326,6 @@
 			]
 		},
 		{
-			"id": "i21",
-			"name": "Violoncell",
-			"abbr": "Vc",
-			"grand": false,
-			"parts": [
-				{
-					"name": "Vc"
-				}
-			],
-			"staves": [
-				{
-					"id": "i21-1",
-					"parts": [
-						0
-					]
-				}
-			]
-		},
-		{
 			"id": "i5",
 			"name": "I Hom ın F",
 			"abbr": "",
@@ -367,6 +348,25 @@
 				{
 					"id": "i6-1",
 					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i21",
+			"name": "Violoncell",
+			"abbr": "Vc",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Vc"
+				}
+			],
+			"staves": [
+				{
+					"id": "i21-1",
+					"parts": [
+						0
+					]
 				}
 			]
 		}
@@ -967,7 +967,7 @@
 					"uly": 1301,
 					"lrx": 2335,
 					"lry": 1364,
-					"staff": "i21-1"
+					"staff": "i15-1"
 				},
 				{
 					"ulx": 266,
