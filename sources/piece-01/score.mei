@@ -79,10 +79,10 @@
             <zone xml:id="zone-3-4" type="measure" n="27" ulx="1281" uly="218" lrx="1674" lry="1504"/>
             <zone xml:id="zone-3-5" type="measure" n="28" ulx="1609" uly="218" lrx="1938" lry="1506"/>
             <zone xml:id="zone-3-6" type="measure" n="29" ulx="1873" uly="231" lrx="2372" lry="1514"/>
-            <zone xml:id="zone-3-7" type="measure" n="30" ulx="227" uly="1631" lrx="816" lry="3295"/>
+            <zone xml:id="zone-3-7" type="measure" n="30" ulx="227" uly="1613" lrx="816" lry="3295"/>
             <zone xml:id="zone-3-8" type="measure" n="31" ulx="755" uly="1611" lrx="1142" lry="3301"/>
-            <zone xml:id="zone-3-9" type="measure" n="32" ulx="1079" uly="1612" lrx="1466" lry="3310"/>
-            <zone xml:id="zone-3-10" type="measure" n="33" ulx="1410" uly="1610" lrx="1740" lry="3315"/>
+            <zone xml:id="zone-3-9" type="measure" n="32" ulx="1079" uly="1612" lrx="1466" lry="3300"/>
+            <zone xml:id="zone-3-10" type="measure" n="33" ulx="1410" uly="1610" lrx="1740" lry="3300"/>
             <zone xml:id="zone-3-11" type="measure" n="34" ulx="1677" uly="1619" lrx="2051" lry="3305"/>
             <zone xml:id="zone-3-12" type="measure" n="35" ulx="1990" uly="1615" lrx="2372" lry="3305"/>
          </surface>
