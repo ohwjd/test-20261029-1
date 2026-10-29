@@ -181,9 +181,10 @@
                         <label xml:id="label-31">Viola</label>
                         <instrDef xml:id="instrDef-16"/>
                      </staffDef>
-                     <staffDef xml:id="i15-staff1" n="17" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-32">Violoncello</label>
+                     <staffDef xml:id="i20-staff1" n="17" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
+                        <label xml:id="label-32">VC und KB Vc</label>
                         <instrDef xml:id="instrDef-17"/>
+                        <layerDef xml:id="layerDef-20" n="1" label="Vc"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
