@@ -56,6 +56,12 @@
 						0,
 						1
 					]
+				},
+				{
+					"id": "i16-3",
+					"parts": [
+						0
+					]
 				}
 			]
 		},
@@ -320,6 +326,25 @@
 			]
 		},
 		{
+			"id": "i21",
+			"name": "Violoncell",
+			"abbr": "Vc",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Vc"
+				}
+			],
+			"staves": [
+				{
+					"id": "i21-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
 			"id": "i2",
 			"name": "Oboe I!",
 			"abbr": "",
@@ -342,25 +367,6 @@
 				{
 					"id": "i5-1",
 					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i21",
-			"name": "Violoncell",
-			"abbr": "Vc",
-			"grand": false,
-			"parts": [
-				{
-					"name": "Vc"
-				}
-			],
-			"staves": [
-				{
-					"id": "i21-1",
-					"parts": [
-						0
-					]
 				}
 			]
 		},
@@ -775,7 +781,7 @@
 					"uly": 2270,
 					"lrx": 2327,
 					"lry": 2333,
-					"staff": "i2-1"
+					"staff": "i16-3"
 				},
 				{
 					"ulx": 260,
@@ -796,7 +802,7 @@
 					"uly": 2594,
 					"lrx": 2343,
 					"lry": 2652,
-					"staff": "i5-1"
+					"staff": "i18-4"
 				},
 				{
 					"ulx": 261,
