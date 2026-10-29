@@ -4,7 +4,7 @@
 		{
 			"id": "i1",
 			"name": "Flöte",
-			"abbr": "",
+			"abbr": "Fl",
 			"grand": false,
 			"parts": [
 				{
@@ -32,7 +32,7 @@
 		{
 			"id": "i16",
 			"name": "Oboe",
-			"abbr": "",
+			"abbr": "Ob",
 			"grand": false,
 			"parts": [
 				{
@@ -55,7 +55,7 @@
 		{
 			"id": "i3",
 			"name": "Klarinette in A",
-			"abbr": "",
+			"abbr": "Kl",
 			"grand": false,
 			"parts": [
 				{
@@ -78,7 +78,7 @@
 		{
 			"id": "i17",
 			"name": "Fagott",
-			"abbr": "",
+			"abbr": "Fg",
 			"grand": false,
 			"parts": [
 				{
@@ -101,7 +101,7 @@
 		{
 			"id": "i18",
 			"name": "Horn in F",
-			"abbr": "",
+			"abbr": "Hn",
 			"grand": false,
 			"parts": [
 				{
@@ -137,7 +137,7 @@
 		{
 			"id": "i19",
 			"name": "Trompete in F",
-			"abbr": "",
+			"abbr": "Tr",
 			"grand": false,
 			"parts": [
 				{
@@ -160,7 +160,7 @@
 		{
 			"id": "i8",
 			"name": "Posaune",
-			"abbr": "",
+			"abbr": "Pos",
 			"grand": false,
 			"parts": [
 				{
@@ -187,7 +187,7 @@
 		{
 			"id": "i9",
 			"name": "Pauken in A, e",
-			"abbr": "",
+			"abbr": "Pk",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -200,7 +200,7 @@
 		{
 			"id": "i10",
 			"name": "Kleine Trommel",
-			"abbr": "",
+			"abbr": "Kl Tr",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -213,7 +213,7 @@
 		{
 			"id": "i11",
 			"name": "Große Trommel",
-			"abbr": "",
+			"abbr": "Gr Tr",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -226,7 +226,7 @@
 		{
 			"id": "i12",
 			"name": "Glocke in E",
-			"abbr": "",
+			"abbr": "Gl",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -239,7 +239,7 @@
 		{
 			"id": "i13",
 			"name": "Violine",
-			"abbr": "",
+			"abbr": "Vl",
 			"grand": false,
 			"parts": [
 				{
@@ -267,7 +267,7 @@
 		{
 			"id": "i14",
 			"name": "Viola",
-			"abbr": "",
+			"abbr": "Va",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -280,11 +280,14 @@
 		{
 			"id": "i20",
 			"name": "VC und KB",
-			"abbr": "",
+			"abbr": "Vc",
 			"grand": false,
 			"parts": [
 				{
 					"name": "Vc"
+				},
+				{
+					"name": "Kb"
 				}
 			],
 			"staves": [
@@ -292,6 +295,12 @@
 					"id": "i20-2",
 					"parts": [
 						0
+					]
+				},
+				{
+					"id": "i20-3",
+					"parts": [
+						1
 					]
 				}
 			]
@@ -471,7 +480,7 @@
 					"uly": 3117,
 					"lrx": 2340,
 					"lry": 3185,
-					"staff": "i20-2"
+					"staff": "i20-3"
 				}
 			],
 			"grandstaves": []
