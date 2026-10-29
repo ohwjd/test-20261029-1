@@ -142,91 +142,93 @@
                            <label xml:id="label-13">Horn in F</label>
                            <labelAbbr xml:id="labelAbbr-7">Hn</labelAbbr>
                            <instrDef xml:id="instrDef-7"/>
-                           <layerDef xml:id="layerDef-14" n="3"><label xml:id="label-14">III</label></layerDef>
-                           <layerDef xml:id="layerDef-15" n="4"><label xml:id="label-15">IV</label></layerDef>
+                           <layerDef xml:id="layerDef-14" n="1" label="I"/>
+                           <layerDef xml:id="layerDef-15" n="2" label="II"/>
+                           <layerDef xml:id="layerDef-16" n="3" label="III"/>
+                           <layerDef xml:id="layerDef-17" n="4" label="IV"/>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i19-staff1" n="8" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-16">Trompete in F</label>
+                        <label xml:id="label-14">Trompete in F</label>
                         <labelAbbr xml:id="labelAbbr-8">Tr</labelAbbr>
                         <instrDef xml:id="instrDef-8"/>
-                        <layerDef xml:id="layerDef-16" n="1"><label xml:id="label-17">I</label></layerDef>
-                        <layerDef xml:id="layerDef-17" n="2"><label xml:id="label-18">II</label></layerDef>
+                        <layerDef xml:id="layerDef-18" n="1"><label xml:id="label-15">I</label></layerDef>
+                        <layerDef xml:id="layerDef-19" n="2"><label xml:id="label-16">II</label></layerDef>
                      </staffDef>
                      <staffDef xml:id="i8-staff1" n="9" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-19">Posaune</label>
+                        <label xml:id="label-17">Posaune</label>
                         <labelAbbr xml:id="labelAbbr-9">Pos</labelAbbr>
                         <instrDef xml:id="instrDef-9"/>
-                        <layerDef xml:id="layerDef-18" n="1"><label xml:id="label-20">I</label></layerDef>
-                        <layerDef xml:id="layerDef-19" n="2"><label xml:id="label-21">II</label></layerDef>
-                        <layerDef xml:id="layerDef-20" n="3"><label xml:id="label-22">III</label></layerDef>
+                        <layerDef xml:id="layerDef-20" n="1"><label xml:id="label-18">I</label></layerDef>
+                        <layerDef xml:id="layerDef-21" n="2"><label xml:id="label-19">II</label></layerDef>
+                        <layerDef xml:id="layerDef-22" n="3"><label xml:id="label-20">III</label></layerDef>
                      </staffDef>
                      <staffDef xml:id="i9-staff1" n="10" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-23">Pauken in A, e</label>
+                        <label xml:id="label-21">Pauken in A, e</label>
                         <labelAbbr xml:id="labelAbbr-10">Pk</labelAbbr>
                         <instrDef xml:id="instrDef-10"/>
                      </staffDef>
                      <staffDef xml:id="i10-staff1" n="11" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-24">Kleine Trommel</label>
+                        <label xml:id="label-22">Kleine Trommel</label>
                         <labelAbbr xml:id="labelAbbr-11">Kl Tr</labelAbbr>
                         <instrDef xml:id="instrDef-11"/>
                      </staffDef>
                      <staffDef xml:id="i11-staff1" n="12" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-25">Große Trommel</label>
+                        <label xml:id="label-23">Große Trommel</label>
                         <labelAbbr xml:id="labelAbbr-12">Gr Tr</labelAbbr>
                         <instrDef xml:id="instrDef-12"/>
                      </staffDef>
                      <staffDef xml:id="i12-staff1" n="13" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-26">Glocke in E</label>
+                        <label xml:id="label-24">Glocke in E</label>
                         <labelAbbr xml:id="labelAbbr-13">Gl</labelAbbr>
                         <instrDef xml:id="instrDef-13"/>
                      </staffDef>
                      <staffGrp xml:id="i13" symbol="bracket" bar.thru="true">
                         <staffDef xml:id="i13-staff1" n="14" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
-                           <label xml:id="label-27">Violine I</label>
+                           <label xml:id="label-25">Violine I</label>
                            <labelAbbr xml:id="labelAbbr-14">Vl I</labelAbbr>
                            <instrDef xml:id="instrDef-14"/>
-                           <layerDef xml:id="layerDef-21" n="1" label="I"/>
-                           <layerDef xml:id="layerDef-22" n="2" label="II"/>
+                           <layerDef xml:id="layerDef-23" n="1" label="I"/>
+                           <layerDef xml:id="layerDef-24" n="2" label="II"/>
                         </staffDef>
                         <staffDef xml:id="i13-staff2" n="15" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
-                           <label xml:id="label-28">Violine II</label>
+                           <label xml:id="label-26">Violine II</label>
                            <labelAbbr xml:id="labelAbbr-15">Vl II</labelAbbr>
                            <instrDef xml:id="instrDef-15"/>
-                           <layerDef xml:id="layerDef-23" n="2" label="II"/>
+                           <layerDef xml:id="layerDef-25" n="2" label="II"/>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i14-staff1" n="16" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
-                        <label xml:id="label-29">Viola</label>
+                        <label xml:id="label-27">Viola</label>
                         <labelAbbr xml:id="labelAbbr-16">Va</labelAbbr>
                         <instrDef xml:id="instrDef-16"/>
                      </staffDef>
                      <staffDef xml:id="i15-staff1" n="17" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-30">Violoncello</label>
+                        <label xml:id="label-28">Violoncello</label>
                         <labelAbbr xml:id="labelAbbr-17">Vc</labelAbbr>
                         <instrDef xml:id="instrDef-17"/>
                      </staffDef>
                      <staffDef xml:id="i22-staff1" n="18" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-31">Kontrabass</label>
+                        <label xml:id="label-29">Kontrabass</label>
                         <labelAbbr xml:id="labelAbbr-18">Kb</labelAbbr>
                         <instrDef xml:id="instrDef-18"/>
                      </staffDef>
-                     <staffDef xml:id="i6-staff1" n="19" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-32">II</label>
-                        <instrDef xml:id="instrDef-19"/>
-                     </staffDef>
-                     <staffDef xml:id="i21-staff1" n="20" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-33">Violoncell Vc</label>
+                     <staffDef xml:id="i21-staff1" n="19" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-30">Violoncell Vc</label>
                         <labelAbbr xml:id="labelAbbr-19">Vc Vc</labelAbbr>
-                        <instrDef xml:id="instrDef-20"/>
-                        <layerDef xml:id="layerDef-24" n="1" label="Vc"/>
+                        <instrDef xml:id="instrDef-19"/>
+                        <layerDef xml:id="layerDef-26" n="1" label="Vc"/>
                      </staffDef>
-                     <staffDef xml:id="i2-staff1" n="21" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-34">Oboe I!</label>
+                     <staffDef xml:id="i2-staff1" n="20" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-31">Oboe I!</label>
+                        <instrDef xml:id="instrDef-20"/>
+                     </staffDef>
+                     <staffDef xml:id="i5-staff1" n="21" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-32">I Hom ın F</label>
                         <instrDef xml:id="instrDef-21"/>
                      </staffDef>
-                     <staffDef xml:id="i5-staff1" n="22" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-35">I Hom ın F</label>
+                     <staffDef xml:id="i6-staff1" n="22" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-33">II</label>
                         <instrDef xml:id="instrDef-22"/>
                      </staffDef>
                   </staffGrp>

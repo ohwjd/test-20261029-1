@@ -320,19 +320,6 @@
 			]
 		},
 		{
-			"id": "i6",
-			"name": "II",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i6-1",
-					"parts": []
-				}
-			]
-		},
-		{
 			"id": "i21",
 			"name": "Violoncell",
 			"abbr": "Vc",
@@ -373,6 +360,19 @@
 			"staves": [
 				{
 					"id": "i5-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "II",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
 					"parts": []
 				}
 			]
@@ -698,14 +698,14 @@
 					"uly": 814,
 					"lrx": 2335,
 					"lry": 871,
-					"staff": "i18-4"
+					"staff": "i18-3"
 				},
 				{
 					"ulx": 263,
 					"uly": 926,
 					"lrx": 2342,
 					"lry": 985,
-					"staff": "i6-1"
+					"staff": "i18-4"
 				},
 				{
 					"ulx": 255,
