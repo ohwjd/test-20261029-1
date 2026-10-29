@@ -212,19 +212,19 @@
                         <labelAbbr xml:id="labelAbbr-18">Kb</labelAbbr>
                         <instrDef xml:id="instrDef-18"/>
                      </staffDef>
-                     <staffDef xml:id="i21-staff1" n="19" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-30">Violoncell Vc</label>
-                        <labelAbbr xml:id="labelAbbr-19">Vc Vc</labelAbbr>
+                     <staffDef xml:id="i2-staff1" n="19" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-30">Oboe I!</label>
                         <instrDef xml:id="instrDef-19"/>
-                        <layerDef xml:id="layerDef-25" n="1" label="Vc"/>
                      </staffDef>
-                     <staffDef xml:id="i2-staff1" n="20" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-31">Oboe I!</label>
+                     <staffDef xml:id="i5-staff1" n="20" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-31">I Hom ın F</label>
                         <instrDef xml:id="instrDef-20"/>
                      </staffDef>
-                     <staffDef xml:id="i5-staff1" n="21" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-32">I Hom ın F</label>
+                     <staffDef xml:id="i21-staff1" n="21" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-32">Violoncell Vc</label>
+                        <labelAbbr xml:id="labelAbbr-19">Vc Vc</labelAbbr>
                         <instrDef xml:id="instrDef-21"/>
+                        <layerDef xml:id="layerDef-25" n="1" label="Vc"/>
                      </staffDef>
                      <staffDef xml:id="i6-staff1" n="22" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
                         <label xml:id="label-33">II</label>
