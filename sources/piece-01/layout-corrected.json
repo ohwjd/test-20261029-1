@@ -138,6 +138,15 @@
 						2,
 						3
 					]
+				},
+				{
+					"id": "i18-4",
+					"parts": [
+						0,
+						1,
+						2,
+						3
+					]
 				}
 			]
 		},
@@ -311,19 +320,6 @@
 			]
 		},
 		{
-			"id": "i5",
-			"name": "I Hom ın F",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i5-1",
-					"parts": []
-				}
-			]
-		},
-		{
 			"id": "i6",
 			"name": "II",
 			"abbr": "",
@@ -367,10 +363,23 @@
 					"parts": []
 				}
 			]
+		},
+		{
+			"id": "i5",
+			"name": "I Hom ın F",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": []
+				}
+			]
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": false,
+	"instrumentsFixed": true,
 	"pages": [
 		{
 			"image": "../img/01.jpg",
@@ -689,7 +698,7 @@
 					"uly": 814,
 					"lrx": 2335,
 					"lry": 871,
-					"staff": "i5-1"
+					"staff": "i18-4"
 				},
 				{
 					"ulx": 263,
