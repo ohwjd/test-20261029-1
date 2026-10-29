@@ -34,7 +34,8 @@
 						1
 					]
 				}
-			]
+			],
+			"partsAreInstruments": false
 		},
 		{
 			"id": "i16",
