@@ -326,32 +326,6 @@
 			]
 		},
 		{
-			"id": "i2",
-			"name": "Oboe I!",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i2-1",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i5",
-			"name": "I Hom ın F",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i5-1",
-					"parts": []
-				}
-			]
-		},
-		{
 			"id": "i21",
 			"name": "Violoncell",
 			"abbr": "Vc",
@@ -367,6 +341,19 @@
 					"parts": [
 						0
 					]
+				}
+			]
+		},
+		{
+			"id": "i5",
+			"name": "I Hom ın F",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": []
 				}
 			]
 		},
@@ -931,7 +918,7 @@
 					"uly": 380,
 					"lrx": 2336,
 					"lry": 443,
-					"staff": "i2-1"
+					"staff": "i16-3"
 				},
 				{
 					"ulx": 268,
@@ -952,7 +939,7 @@
 					"uly": 757,
 					"lrx": 2338,
 					"lry": 826,
-					"staff": "i5-1"
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 268,
